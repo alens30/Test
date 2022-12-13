@@ -1,0 +1,17 @@
+*{
+    margin: 0;padding: 0;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    padding-top: 4em;
+}
+p{
+    margin: 2em 0;
+}
+img{
+    width: 20em;
+    height: 20em;
+    max-width: 90%;
+}
